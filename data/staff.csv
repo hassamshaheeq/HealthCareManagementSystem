@@ -1,0 +1,17 @@
+StaffID,FirstName,LastName,Role,Department,ContactInfo
+ST001,Michelle,Adams,Practice Manager,Administration,S001
+ST002,James,Wilson,Receptionist,Front Desk,S001
+ST003,Carol,Smith,Medical Secretary,Administration,S001
+ST004,Peter,Johnson,Healthcare Assistant,Clinical Support,S001
+ST005,Sandra,Brown,Practice Manager,Administration,S002
+ST006,Kevin,Davis,Receptionist,Front Desk,S002
+ST007,Lisa,Miller,Medical Secretary,Administration,S002
+ST008,Margaret,Taylor,Practice Manager,Administration,S003
+ST009,Robert,Anderson,Receptionist,Front Desk,S003
+ST010,Helen,White,Healthcare Assistant,Clinical Support,S003
+ST011,David,Thompson,Hospital Administrator,Administration,H001
+ST012,Julie,Roberts,Ward Clerk,Administration,H001
+ST013,Mark,Evans,Porter,Support Services,H001
+ST014,Susan,Clarke,Appointments Administrator,Administration,H002
+ST015,Andrew,Phillips,Medical Records Administrator,Administration,H002
+ST016,Patricia,Green,Children's Ward Administrator,Administration,H003

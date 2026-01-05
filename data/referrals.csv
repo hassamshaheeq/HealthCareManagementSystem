@@ -1,0 +1,11 @@
+ReferralID,PatientID,SourceClinicianID,TargetFacilityID,Reason,UrgencyLevel,ClinicalSummary,Status,DateReferred
+R001,P005,C001,C005,S001,H001,01/18/2024,Routine,Heart murmur
+R002,P001,C001,C006,S001,H001,01/20/2024,Urgent,Persistent headaches
+R003,P003,C003,C012,S002,H002,01/21/2024,Routine,Chronic abdominal pain
+R004,P009,C004,C007,S003,H002,01/22/2024,Routine,Chronic knee pain
+R005,P007,C001,C005,S001,H003,01/23/2024,Non-urgent,Suspicious skin lesion
+R006,P004,C002,C005,S001,H001,01/24/2024,Urgent,Chest pain
+R007,P008,C010,C008,S002,H003,01/25/2024,Routine,Chronic eczema
+R008,P002,C009,C011,S001,H001,01/26/2024,Non-urgent,Post-vaccine adverse reaction
+R009,P010,C002,C005,S001,H001,01/27/2024,Routine,Diabetes management
+R010,P006,C004,C006,S003,H001,01/28/2024,Urgent,Memory problems
