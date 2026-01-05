@@ -223,22 +223,5 @@ public class DataManager {
                 s.getRole(), s.getDepartment(), s.getContactInfo() });
     }
 
-    public void addClinician(Clinician c) {
-        clinicians.add(c);
-        CSVHandler.appendCSV("data/clinicians.csv", new String[] { c.getClinicianID(), c.getRegistryID(),
-                c.getFirstName(), c.getLastName(), c.getRole(), c.getSpecialty(), c.getContactInfo() });
-    }
 
-    // Stats for Dashboard
-    public int getTotalPatients() {
-        return patients.size();
-    }
-
-    public int getPendingAppointments() {
-        return (int) appointments.stream().filter(a -> "Scheduled".equals(a.getStatus())).count();
-    }
-
-    public int getPendingReferrals() {
-        return (int) referrals.stream().filter(r -> "Pending".equals(r.getStatus())).count();
-    }
 }
