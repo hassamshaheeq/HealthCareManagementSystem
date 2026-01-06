@@ -1,1 +1,11 @@
-ReferralID,PatientID,SourceClinicianID,TargetFacilityID,Reason,UrgencyLevel,ClinicalSummary,Status,DateReferred
+referral_id,patient_id,referring_clinician_id,referred_to_clinician_id,referring_facility_id,referred_to_facility_id,referral_date,urgency_level,referral_reason,clinical_summary,requested_tests,status,appointment_id,notes,created_date,last_updated
+R001,P005,C001,C005,S001,H001,01/18/2024,Routine,Heart murmur,35-year-old with systolic murmur,Echocardiography,Completed,A005,Patient seen by cardiology,01/18/2024,01/25/2024
+R002,P001,C001,C006,S001,H001,01/20/2024,Urgent,Persistent headaches,40-year-old with chronic migraines,MRI Brain,Pending,A011,Awaiting MRI results,01/20/2024,01/27/2024
+R003,P003,C003,C012,S002,H002,01/21/2024,Routine,Chronic abdominal pain,48-year-old with upper GI symptoms,Upper GI Endoscopy,Pending,A012,Patient awaiting appointment,01/21/2024,01/28/2024
+R004,P009,C004,C007,S003,H002,01/22/2024,Routine,Chronic knee pain,44-year-old with knee joint pain,MRI Knee,In Progress,A009,Physiotherapy scheduled,01/22/2024,01/29/2024
+R005,P007,C001,C005,S001,H003,01/23/2024,Non-urgent,Suspicious skin lesion,33-year-old with suspicious mole,Dermatology consultation,Pending,,,Routine 2-week wait,01/23/2024,01/30/2024
+R006,P004,C002,C005,S001,H001,01/24/2024,Urgent,Chest pain,37-year-old with exercise-induced chest pain,Exercise stress test,New,,,Fast-track pathway initiated,01/24/2024,01/31/2024
+R007,P008,C010,C008,S002,H003,01/25/2024,Routine,Chronic eczema,42-year-old with severe dermatitis,Patch testing,New,,,Considering biological therapy,01/25/2024,02/01/2024
+R008,P002,C009,C011,S001,H001,01/26/2024,Non-urgent,Post-vaccine adverse reaction,35-year-old with allergy symptoms,Allergy assessment,Completed,,,Standard pathway,01/26/2024,02/02/2024
+R009,P010,C002,C005,S001,H001,01/27/2024,Routine,Diabetes management,38-year-old with poor diabetic control,Diabetic review,Pending,,,Annual diabetes review,01/27/2024,02/03/2024
+R010,P006,C004,C006,S003,H001,01/28/2024,Urgent,Memory problems,47-year-old with cognitive decline,Cognitive assessment,Pending,,,Early intervention needed,01/28/2024,02/04/2024

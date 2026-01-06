@@ -1,3 +1,7 @@
-FacilityID,Name,Type,Address,ContactNumber
-F001,St Marys Hospital,Hospital,London SE1,0201234567
-F002,City GP Surgery,GP Practice,London EC1,0207654321
+facility_id,facility_name,facility_type,address,postcode,phone_number,email,opening_hours,manager_name,capacity,specialities_offered
+S001,Birmingham GP Surgery,GP Surgery,100 High St,B1 1ZZ,0121-123-4567,contact@birminghamgp.nhs.uk,Mon-Fri: 8:00-18:00,Dr. David Thompson,1500,General Practice|Vaccinations|Minor Surgery
+S002,Solihull Family GP Surgery,GP Surgery,250 Station Rd,B91 2AA,0121-234-5678,enquiries@solihullgp.nhs.uk,Mon-Fri: 8:00-18:00,Dr. Mark Davis,1200,General Practice|Family Planning|Travel Clinic
+S003,Sutton Coldfield GP Surgery,GP Surgery,75 Parade,B72 1PX,0121-345-6789,reception@suttongp.nhs.uk,Mon-Fri: 8:00-18:00,Dr. Susan Clarke,2000,General Practice|Chronic Disease Management|Mental Health
+H001,Heartlands Hospital,Hospital,Bordesley,B9 5SS,0121-424-2000,enquiries@heartlands.nhs.uk,24/7 Emergency,Sarah Mitchell,800,Cardiology|Neurology|Emergency Medicine|General Surgery
+H002,Queen Elizabeth Hospital,Hospital,Mindelsohn,B15 2TH,0121-627-1627,contact@qe.nhs.uk,24/7 Emergency,Michael Brown,1200,Oncology|Transplant Surgery|Critical Care
+H003,Birmingham Hospital,Hospital,Steelhouse,B4 6NH,0121-333-8333,info@birminghamhospital.nhs.uk,24/7 Emergency,Emma Thompson,400,Pediatrics|Dermatology|Child Psychology|Neonatal Care
