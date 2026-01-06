@@ -1,7 +1,3 @@
 FacilityID,Name,Type,Address,ContactNumber
-S001,Birmingham GP Surgery,GP Surgery,100 High St,B1 1ZZ
-S002,Solihull Family GP Surgery,GP Surgery,250 Station Rd,B91 2AA
-S003,Sutton Coldfield GP Surgery,GP Surgery,75 Parade,B72 1PX
-H001,Heartlands Hospital,Hospital,Bordesley,B9 5SS
-H002,Queen Elizabeth Hospital,Hospital,Mindelsohn,B15 2TH
-H003,Birmingham Hospital,Hospital,Steelhouse,B4 6NH
+F001,St Marys Hospital,Hospital,London SE1,0201234567
+F002,City GP Surgery,GP Practice,London EC1,0207654321

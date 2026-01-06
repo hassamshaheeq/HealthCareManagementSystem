@@ -1,13 +1,3 @@
 ClinicianID,RegistryID,FirstName,LastName,Role,Specialty,ContactInfo
-C001,Dr. David,Thompson,GP,General Practice,7654321,07111222333
-C002,Dr. Helen,Roberts,GP,General Practice,7654322,07111222334
-C003,Dr. Mark,Davies,GP,General Practice,7654323,07111222335
-C004,Dr. Susan,Clarke,GP,General Practice,7654324,07111222336
-C005,Dr. Richard,Evans,Consultant,Cardiology,7654325,07111222337
-C006,Dr. Maria,Rodriguez,Consultant,Neurology,7654326,07111222338
-C007,Dr. Andrew,White,Consultant,Orthopaedics,7654327,07111222339
-C008,Dr. Jennifer,Lee,Consultant,Dermatology,7654328,07111222340
-C009,Sister Mary,Kelly,Senior Nurse,General Nursing,N654321,07111222341
-C010,Nurse Jane,Phillips,Practice Nurse,Practice Nursing,N654322,07111222342
-C011,Nurse Robert,Green,Staff Nurse,General Nursing,N654323,07111222343
-C012,Dr. Paul,Harris,Consultant,Gastroenterology,7654329,07111222344
+C001,REG101,Alistair,Graham,Doctor,General Practice,alistair@nhs.net
+C002,REG102,Sarah,Connor,Nurse,Triage,sarah@nhs.net
